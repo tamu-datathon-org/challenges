@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/challenges/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'https://tamudatathon.com/static/img/favicon.ico',
 
   presets: [
     [
@@ -43,21 +43,25 @@ const config = {
             href: 'https://tamudatathon.com/',
             label: 'Home',
             position: 'left',
+            target: '_self'
           },
           {
             href: 'https://tamudatathon.com/events',
             label: 'Events',
             position: 'left',
+            target: '_self'
           },
           {
             href: 'https://tamudatathon.com/challenges',
             label: 'Schedule',
             position: 'left',
+            target: '_self'
           },
           {
             href: '/',
             label: 'Challenges',
             position: 'left',
+            target: '_self'
           }
         ],
       },
