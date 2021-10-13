@@ -5,7 +5,21 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Challenge #1',
+    title: 'General Motors Challenge',
+    Svg: require('../../static/img/gm_logo.svg').default,
+    description: (
+      <>
+        <p>This is a short description for this challenge. Should hook people in and all that.</p>
+        <Link
+            className="button button--primary button--lg"
+            to="/docs/gm">
+            Learn more
+        </Link>
+      </>
+    ),
+  },
+  {
+    title: 'Goldman Sachs',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -19,8 +33,8 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Challenge #2',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Bloomberg Challenge',
+    Svg: require('../../static/img/bloomberg.svg').default,
     description: (
       <>
         <p>This is a short description for this challenge. Should hook people in and all that.</p>
@@ -33,22 +47,22 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Challenge #3',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Kaggle Challenge',
+    Svg: require('../../static/img/td-logo.svg').default,
     description: (
       <>
-        <p>This is a short description for this challenge. Should hook people in and all that.</p>
+        <p>The world is filled with data that can be collected. Turn on your creative minds and gather as much data as you can about an interesting topic!</p>
         <Link
             className="button button--primary button--lg"
-            to="/docs/intro">
+            to="/docs/kaggle">
             Learn more
         </Link>
       </>
     ),
   },
   {
-    title: 'Challenge #4',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Color Filler Challenge',
+    Svg: require('../../static/img/td-logo.svg').default,
     description: (
       <>
         <p>This is a short description for this challenge. Should hook people in and all that.</p>
@@ -59,7 +73,7 @@ const FeatureList = [
         </Link>
       </>
     ),
-  },
+  }
 ];
 
 function Feature({Svg, title, description}) {
