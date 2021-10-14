@@ -17,7 +17,9 @@ at the pizzeria to find the problem."
 
 You have received three data sets that were taken from Pizzeria Mamma Mia’s internal systems. These data sets can be pieced 
 together to reconstruct Mamma Mia’s pizza delivery process. Using these three data sets and your Celonis technology, you will be using process data mining to 
-derive insights into Mamma Mia’s processes, and help Giovanni improve his day-to-day operations. Turn to the next page to find your case challenge.
+derive insights into Mamma Mia’s processes, and help Giovanni improve his day-to-day operations.
+
+We've structured this challenge as a sort of "blitz challenge" in that anyone can complete in under 3 hours and in tandem with another challenge should they have the bandwidth. This is intended for **beginners** but anyone can complete and there's so much one can do in 24 hours as well if they want to focus on the Celonis challenge specifically😃
 
 Please complete the following:
 1. **Technical Component:**
@@ -28,6 +30,8 @@ Please complete the following:
 2. **Recommendations Component:**
    * Once you have created your workspace and answered your analyses questions (questions optional), your team will need to create a 1-page writeup or short video to pitch your findings to Giovanni and make the 
    case for business improvements. This should include the following: **Insights from your analyses, business recommendations for process improvement, and an uploaded process model from the original business process (see slide 21 in help packet)**
+
+**Data Environment**: All students will need to gain access to the Celonis license by using their **university email** to register for the tool here: https://www.celonis.com/academic-signup
 
 ## Judging
 
