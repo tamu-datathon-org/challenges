@@ -20,7 +20,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Goldman Sachs',
+    title: 'Goldman Sachs Challenge',
     imgUrl: "/img/goldman_sachs_logo.png",
     description: (
       <>
@@ -35,7 +35,7 @@ const FeatureList = [
   },
   {
     title: 'Bloomberg Challenge',
-    imgUrl: "/img/gm_logo.svg",
+    imgUrl: "/img/bloomberg.svg",
     description: (
       <>
         <p>This is a short description for this challenge. Should hook people in and all that.</p>
