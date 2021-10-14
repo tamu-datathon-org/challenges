@@ -2,43 +2,58 @@
 sidebar_position: 5
 ---
 
-# Celonis Challenge
+# Celonis 2021 Challenge
+
+## Introduction
+
+The Pizzeria Mamma Mia is selling takeaway pizza. The business is generally going well, however, their customer ratings have been very low, and they are 
+making negative profits for some of their deliveries. 
+
+The owner of the Pizzeria, Giovanni, is puzzled: “I make my pizza by following the original recipe 
+of my grand grandfather and everyone loves it! Still, customers complain and don’t come back. I wonder if there is some way, I could look behind the processes
+at the pizzeria to find the problem."
 
 ## Description
 
-This is where the challenge description goes!
+You have received three data sets that were taken from Pizzeria Mamma Mia’s internal systems. These data sets can be pieced 
+together to reconstruct Mamma Mia’s pizza delivery process. Using these three data sets and your Celonis technology, you will be using process data mining to 
+derive insights into Mamma Mia’s processes, and help Giovanni improve his day-to-day operations. Turn to the next page to find your case challenge.
+
+Please complete the following:
+1. **Technical Component:**
+   * Upload your given data and correctly link the data to upload a process reconstruction using your data model.
+   * Create a data workspace that analyses different facets of the pizza delivery process You can refer to the example workspace within the tool. Your workspace 
+   should include: **one process Component, one char or table, one KPI component, a conformance checking page, and either one selection or design component. (hint: you can refer to slides 11 - 20 in your reference packet for assistance)**
+   * **Once you have created your workspace, answer the 8 analyses questions on the attached slide (optional).**
+2. **Recommendations Component:**
+   * Once you have created your workspace and answered your analyses questions (questions optional), your team will need to create a 1-page writeup or short video to pitch your findings to Giovanni and make the 
+   case for business improvements. This should include the following: **Insights from your analyses, business recommendations for process improvement, and an uploaded process model from the original business process (see slide 21 in help packet)**
 
 ## Judging
-There are a few judging criteria for this challenge that are explained below:
 
-#### The Dataset:
-- Size
-   * Number of rows and columns in the dataset
-   * Larger the better
-   * Cleaner the better
-- Uniqueness
+#### Data Workspace Construction:
+- Data Upload
+   * Data is correctly uploaded.
+   * 
+- Workspace Components
    * Make each feature as unique as possible
-   * Try to have unique data points as well
-   * Fresh collection that hasn’t been seen already on Kaggle or other websites
-- Usefulness
-   * Applicability to different industries
-   * Ability to solve real world problems
+- Workspace Structure
+- Originality/Creativity
+- Guiding Analysis Questions[^1] [*Optional*]
 
+#### Analysis Findings:
+- Value Identified
+   * Identify a diverse set of process improvements.
 
-#### The Visualization:
-- Insight
-   * The visualization should be informative and interesting
-   * Showcases connections between variables that are difficult to describe with words alone
-- Presentation
-   * Everything on the visualization should be clear and not cluttered
-   * Colors should be appropriately used
-
-#### Write-Up:
-- This is where the description of the write-up should be
+#### Write-up:
+- Case Results Understanding
+   * Clear and complete,
+- Suggestions for improvement
+   * Lists suggestions for process improvements given case results
 
 ## Prizes
-**1st Place**: $500 per team member
+Note that we will administer in the week after the event a completion **CelonisCertified Badge** to any student who submits, so they can put it on their resume😃
 
-**2nd Place**: $300 per team member
+**1st Place**: $100 gift card to each team member
 
-**3rd Place**: $100 per team member
+We will also have a random drawing for a $25 giftcard for all the contestants that gain access to the tool to try the challenge.
