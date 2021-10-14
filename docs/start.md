@@ -3,7 +3,7 @@ sidebar_position: 0
 ---
 # Getting Started
 
-Welcome to TAMU Datathon! We hope that you learn a lot and gain a feel more confident in your abilities as a Data Scientist. Take a look at the challenges that we are offering this year by clicking on the links in the side navigation. 
+Welcome to TAMU Datathon! We hope that you learn a lot and feel more confident in your abilities as a Data Scientist. Take a look at the challenges that we are offering this year by clicking on the links in the side navigation. 
 
 Also be sure to check out [the competition rules page](rules) as it has some important guidelines.
 
