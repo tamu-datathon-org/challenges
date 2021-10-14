@@ -34,12 +34,16 @@ Please complete the following:
 #### Data Workspace Construction:
 - Data Upload
    * Data is correctly uploaded.
-   * 
+   * Case tables and activity tables are correctly identified and connected.
 - Workspace Components
-   * Make each feature as unique as possible
+   * The amount of possible components.
 - Workspace Structure
+   * Organization of workspace.
 - Originality/Creativity
-- Guiding Analysis Questions[^1] [*Optional*]
+   * The kinds of components that are inside the workspace.
+   * Navigability and aesthetics.
+   * Creativity in visual representations of the process data.
+- Guiding Analysis Questions [*Optional*]
 
 #### Analysis Findings:
 - Value Identified
@@ -47,9 +51,9 @@ Please complete the following:
 
 #### Write-up:
 - Case Results Understanding
-   * Clear and complete,
+   * Clearness and completeness.
 - Suggestions for improvement
-   * Lists suggestions for process improvements given case results
+   * Quality of suggestions for process improvements.
 
 ## Prizes
 Note that we will administer in the week after the event a completion **CelonisCertified Badge** to any student who submits, so they can put it on their resume😃
