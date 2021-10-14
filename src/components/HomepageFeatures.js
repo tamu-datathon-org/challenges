@@ -2,11 +2,12 @@ import React from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import styles from './HomepageFeatures.module.css';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 const FeatureList = [
   {
     title: 'General Motors Challenge',
-    imgUrl: "/static/img/gm_new.gif",
+    imgUrl: '/img/gm_new.gif',
     description: (
       <>
         <p>This is a short description for this challenge. Should hook people in and all that.</p>
@@ -20,7 +21,7 @@ const FeatureList = [
   },
   {
     title: 'Goldman Sachs',
-    imgUrl: "/static/img/goldman_sachs_logo.png",
+    imgUrl: "/img/goldman_sachs_logo.png",
     description: (
       <>
         <p>This is a short description for this challenge. Should hook people in and all that.</p>
@@ -34,7 +35,7 @@ const FeatureList = [
   },
   {
     title: 'Bloomberg Challenge',
-    imgUrl: "/static/img/gm_logo.svg",
+    imgUrl: "/img/gm_logo.svg",
     description: (
       <>
         <p>This is a short description for this challenge. Should hook people in and all that.</p>
@@ -48,7 +49,7 @@ const FeatureList = [
   },
   {
     title: 'Celonis Challenge',
-    imgUrl: "/static/img/celonis_logo.png",
+    imgUrl: "/img/celonis_logo.png",
     description: (
       <>
         <p>This is a short description for this challenge. Should hook people in and all that.</p>
@@ -62,7 +63,7 @@ const FeatureList = [
   },
   {
     title: 'TD Data Synthesis Challenge',
-    imgUrl: "/static/img/td_logo.svg",
+    imgUrl: "/img/td_logo.svg",
     description: (
       <>
         <p>The world is filled with data that can be collected. Turn on your creative minds and gather as much data as you can about an interesting topic!</p>
@@ -80,7 +81,7 @@ function Feature({imgUrl, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <img src={imgUrl} className={styles.featureSvg} />
+        <img src={useBaseUrl(imgUrl)} className={styles.featureSvg} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
