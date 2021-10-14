@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 # Getting Started
 
@@ -31,3 +31,12 @@ Again, check the [rules](rules) for more information.
 ## What challenges can I compete in?
 
 You can see the challenges by clicking the links in the sidebar or by visiting the [challenges homepage](/)
+
+## Where do I submit my project(s)
+Submissions will be done on [bulletin](https://tamudatathon.com/bulletin). There you can select the challenge your submitting for, add a link to your 3 min youtube video, and create your write up.
+
+There might be challenge specific information you have to fill out so be ready to provide the information it asks for.
+
+:::tip
+You can make a draft of your project well before the submission deadline. Then, when you are ready, you can submit it. It really takes away the stress of submitting at 10am.
+:::
