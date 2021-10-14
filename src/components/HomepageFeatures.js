@@ -6,7 +6,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'General Motors Challenge',
-    Svg: require('../../static/img/gm_logo.svg').default,
+    imgUrl: "/static/img/gm_new.gif",
     description: (
       <>
         <p>This is a short description for this challenge. Should hook people in and all that.</p>
@@ -20,7 +20,7 @@ const FeatureList = [
   },
   {
     title: 'Goldman Sachs',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    imgUrl: "/static/img/goldman_sachs_logo.png",
     description: (
       <>
         <p>This is a short description for this challenge. Should hook people in and all that.</p>
@@ -34,7 +34,21 @@ const FeatureList = [
   },
   {
     title: 'Bloomberg Challenge',
-    Svg: require('../../static/img/bloomberg.svg').default,
+    imgUrl: "/static/img/gm_logo.svg",
+    description: (
+      <>
+        <p>This is a short description for this challenge. Should hook people in and all that.</p>
+        <Link
+            className="button button--primary button--lg"
+            to="/docs/intro">
+            Learn more
+        </Link>
+      </>
+    ),
+  },
+  {
+    title: 'Celonis Challenge',
+    imgUrl: "/static/img/celonis_logo.png",
     description: (
       <>
         <p>This is a short description for this challenge. Should hook people in and all that.</p>
@@ -48,7 +62,7 @@ const FeatureList = [
   },
   {
     title: 'Kaggle Challenge',
-    Svg: require('../../static/img/td-logo.svg').default,
+    imgUrl: "/static/img/td_logo.svg",
     description: (
       <>
         <p>The world is filled with data that can be collected. Turn on your creative minds and gather as much data as you can about an interesting topic!</p>
@@ -60,27 +74,13 @@ const FeatureList = [
       </>
     ),
   },
-  {
-    title: 'Color Filler Challenge',
-    Svg: require('../../static/img/td-logo.svg').default,
-    description: (
-      <>
-        <p>This is a short description for this challenge. Should hook people in and all that.</p>
-        <Link
-            className="button button--primary button--lg"
-            to="/docs/intro">
-            Learn more
-        </Link>
-      </>
-    ),
-  }
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({imgUrl, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} alt={title} />
+        <img src={imgUrl} className={styles.featureSvg} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>

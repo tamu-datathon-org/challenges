@@ -1,8 +1,8 @@
 ---
-sidebar_position: 6
+sidebar_position: 3
 ---
 
-# Kaggle Dataset Challenge
+# Goldman Sachs Challenge
 
 ## Description
 
@@ -10,32 +10,24 @@ This is where the challenge description goes!
 
 ## Judging
 
-#### The Dataset:
-- Size
+#### The Dataset (80%):
+1. Size
    * Number of rows and columns in the dataset
    * Larger the better
    * Cleaner the better
-- Uniqueness
+2. Uniqueness
    * Make each feature as unique as possible
    * Try to have unique data points as well
    * Fresh collection that hasn’t been seen already on Kaggle or other websites
-- Usefulness
+3. Usefulness
    * Applicability to different industries
    * Ability to solve real world problems
 
 
-#### The Visualization:
-- Insight
+#### The Visualization (20%):
+1. Inight
    * The visualization should be informative and interesting
    * Showcases connections between variables that are difficult to describe with words alone
-- Presentation
+2. Presentation
    * Everything on the visualization should be clear and not cluttered
    * Colors should be appropriately used
-
-## Prizes
-**1st Place**: $500 per team member
-
-**2nd Place**: $500 per team member
-
-**3rd Place**: $500 per team member
-
