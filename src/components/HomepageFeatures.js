@@ -26,7 +26,7 @@ const FeatureList = [
         <p>This is a short description for this challenge. Should hook people in and all that.</p>
         <Link
             className="button button--primary button--lg"
-            to="/docs/intro">
+            to="/docs/goldman">
             Learn more
         </Link>
       </>
@@ -40,7 +40,7 @@ const FeatureList = [
         <p>This is a short description for this challenge. Should hook people in and all that.</p>
         <Link
             className="button button--primary button--lg"
-            to="/docs/intro">
+            to="/docs/bloomberg">
             Learn more
         </Link>
       </>
@@ -54,21 +54,21 @@ const FeatureList = [
         <p>This is a short description for this challenge. Should hook people in and all that.</p>
         <Link
             className="button button--primary button--lg"
-            to="/docs/intro">
+            to="/docs/celonis">
             Learn more
         </Link>
       </>
     ),
   },
   {
-    title: 'Kaggle Challenge',
+    title: 'TD Data Synthesis Challenge',
     imgUrl: "/static/img/td_logo.svg",
     description: (
       <>
         <p>The world is filled with data that can be collected. Turn on your creative minds and gather as much data as you can about an interesting topic!</p>
         <Link
             className="button button--primary button--lg"
-            to="/docs/kaggle">
+            to="/docs/td_challenge">
             Learn more
         </Link>
       </>

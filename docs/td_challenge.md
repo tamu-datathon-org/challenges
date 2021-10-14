@@ -2,13 +2,14 @@
 sidebar_position: 6
 ---
 
-# Kaggle Dataset Challenge
+# TD Data Synthesis Challenge
 
 ## Description
 
 This is where the challenge description goes!
 
 ## Judging
+There are a few judging criteria for this challenge that are explained below:
 
 #### The Dataset:
 - Size
@@ -32,10 +33,13 @@ This is where the challenge description goes!
    * Everything on the visualization should be clear and not cluttered
    * Colors should be appropriately used
 
+#### Write-Up:
+- This is where the description of the write-up should be
+
 ## Prizes
 **1st Place**: $500 per team member
 
-**2nd Place**: $500 per team member
+**2nd Place**: $300 per team member
 
-**3rd Place**: $500 per team member
+**3rd Place**: $100 per team member
 
