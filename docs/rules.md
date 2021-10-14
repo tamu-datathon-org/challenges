@@ -15,7 +15,7 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 ## The rules of the competition
 
 1. The maximum team size is 4.
-2. Teams should be made up exclusively of students (or recent graduates within one year of having graduated) who are not organizers, volunteers, judges, sponsors, or in any other privileged position at the event. 
+2. Teams should be made up exclusively of students who are not organizers, volunteers, judges, sponsors, or in any other privileged position at the event. 
 3. All team members should be present at the event. Leaving the venue for some time to hack elsewhere is fine.
 4. Teams can of course gain advice and support from organizers, volunteers, sponsors, and others.
 5. All work on a project should be done at the datathon.
