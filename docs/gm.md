@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # General Motors Challenge: Robotorque
 
-[Watch intro video here](youtube.com)
+[Watch intro video here](https://youtube.com)
 
 ## Introduction
 Here at General Motors manafacturing, we love finding innovative ways to solve hard problems.
