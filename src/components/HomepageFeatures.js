@@ -38,7 +38,7 @@ const FeatureList = [
     imgUrl: "/img/bloomberg.svg",
     description: (
       <>
-        <p>This is a short description for this challenge. Should hook people in and all that.</p>
+        <p>Identifying Shifting Policy Priorities in the Federal Register.</p>
         <Link
             className="button button--primary button--lg"
             to="/docs/bloomberg">
@@ -66,7 +66,7 @@ const FeatureList = [
     imgUrl: "/img/td_logo.svg",
     description: (
       <>
-        <p>The world is filled with data that can be collected. Turn on your creative minds and gather as much data as you can about an interesting topic!</p>
+        <p>Turn on your creative minds and gather as much data as you can about an interesting topic!</p>
         <Link
             className="button button--primary button--lg"
             to="/docs/td_challenge">
