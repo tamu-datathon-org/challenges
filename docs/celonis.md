@@ -25,11 +25,11 @@ Please complete the following:
 1. **Technical Component:**
    * Upload your given data and correctly link the data to upload a process reconstruction using your data model.
    * Create a data workspace that analyses different facets of the pizza delivery process You can refer to the example workspace within the tool. Your workspace 
-   should include: **one process Component, one char or table, one KPI component, a conformance checking page, and either one selection or design component. (hint: you can refer to slides 11 - 20 in your reference packet for assistance)**
+   should include: **one process Component, one char or table, one KPI component, a conformance checking page, and either one selection or design component. (hint: you can refer to slides 11 - 20 in your [reference packet](./celonis_help_packet.pdf) for assistance)**
    * **Once you have created your workspace, answer the 8 analyses questions on the attached slide (optional).**
 2. **Recommendations Component:**
    * Once you have created your workspace and answered your analyses questions (questions optional), your team will need to create a 1-page writeup or short video to pitch your findings to Giovanni and make the 
-   case for business improvements. This should include the following: **Insights from your analyses, business recommendations for process improvement, and an uploaded process model from the original business process (see slide 21 in help packet)**
+   case for business improvements. This should include the following: **Insights from your analyses, business recommendations for process improvement, and an uploaded process model from the original business process (see slide 21 in [help packet](./celonis_help_packet.pdf))**
 
 **Data Environment**: All students will need to gain access to the Celonis license by using their **university email** to register for the tool here: https://www.celonis.com/academic-signup
 
