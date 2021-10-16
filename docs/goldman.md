@@ -60,4 +60,6 @@ These are are some guiding questions and listed areas of focus that we will take
    * How well will your models be able to accept new data and evolve to encourage future use?
 
 ## Prizes
-**TBD**
+**1st Place**: Skullcandy Hesh Headphones (+ GS swag)
+
+**2nd Place**: Goldman Sachs Swag

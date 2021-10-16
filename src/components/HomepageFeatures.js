@@ -10,7 +10,10 @@ const FeatureList = [
     imgUrl: '/img/gm_logo.png',
     description: (
       <>
-        <p>This is a short description for this challenge. Should hook people in and all that.</p>
+        <p>
+          🥇Any $200 purchase from Amazon per team member<br></br>
+          🥈$100 gift card per team member
+        </p>
         <Link
             className="button button--primary button--lg"
             to="/docs/gm">
@@ -24,7 +27,10 @@ const FeatureList = [
     imgUrl: "/img/goldman_sachs_logo.png",
     description: (
       <>
-        <p>This is a short description for this challenge. Should hook people in and all that.</p>
+        <p>
+          🥇Skullcandy Hesh Headphones (+ GS swag)<br></br>
+          🥈Goldman Sachs Swag
+        </p>
         <Link
             className="button button--primary button--lg"
             to="/docs/goldman">
@@ -38,7 +44,10 @@ const FeatureList = [
     imgUrl: "/img/bloomberg.svg",
     description: (
       <>
-        <p>Identifying Shifting Policy Priorities in the Federal Register.</p>
+        <p>
+          🥇Nintendo Switch<br></br>
+          🥈Eddie Bauer Softshell Jacket
+        </p>
         <Link
             className="button button--primary button--lg"
             to="/docs/bloomberg">
@@ -52,7 +61,9 @@ const FeatureList = [
     imgUrl: "/img/celonis_logo.png",
     description: (
       <>
-        <p>This is a short description for this challenge. Should hook people in and all that.</p>
+        <p>
+          🥇$100 gift card to each team member (+ $25 raffle)
+        </p>
         <Link
             className="button button--primary button--lg"
             to="/docs/celonis">
@@ -66,7 +77,11 @@ const FeatureList = [
     imgUrl: "/img/td_logo.svg",
     description: (
       <>
-        <p>Turn on your creative minds and gather as much data as you can about an interesting topic!</p>
+        <p>
+          🥇Apple iPad<br></br>
+          🥈Nintendo Switch Lite<br></br>
+          🥉Apple AirPods
+        </p>
         <Link
             className="button button--primary button--lg"
             to="/docs/td_challenge">

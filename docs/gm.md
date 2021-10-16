@@ -12,7 +12,7 @@ Today, you have the chance to solve a real problem we are working on, called Rob
 
 
 ## Description
-The use case of Robotorque is to be able to screw bolts in on a moving fixture using a robot arm. At each timestep, we take a 3d picture of the fixture of interest using a lidar.
+The use case of Robotorque is to be able to screw bolts in on a moving fixture using a robot arm. At each timestep, we take a 3D picture of the fixture of interest using a lidar.
 Our goal is to be able to use the depth image input to be able to control the robot to move to the bolt and screw it in. This problem could theoretically be solved in an end-to-end solution (perhaps using reinforcement learning). If you think you can do this, go right ahead! However, another common approach is to divide this problem into two stages. First, try to estimate the pose (rotation and translation) of the bolt, and assume you have the pose of the bolt to solve the robot control, then combine these solutions to get a full solution.
 
 In the pose-estimation challenge, you will be given an depth image of a bolt that has been transformed. Your goal is to estimate the pose of that bolt based off the image.
