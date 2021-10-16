@@ -40,21 +40,18 @@ You can solve the combined challenge in one go. Or you can solve the pose-etimat
 ## How to get started
 We have provided starter code along with a baseline solution to part 1 and part 2. Please make sure to set the environment variable DISCORD_USERNAME before submitting your solution. Please also have everyone on your team post in the General Motors Discord channel that you are working on this challenge!! We have written a baseline solution that will get you some results and enter you into the contest. You can then improve on this baseline! Running through the start_here.ipynb will submit the baseline solution under your username and will enter you into the contest.
 
-### Demo
-Open [this google colab](https://colab.research.google.com/drive/1jCrbcQwIKktIp0ea_v_4kHsZ71vmoaiK#scrollTo=Ux0rXpz1i8T7)
-for a really short demo. However, we recommend not using colab for this challenge and instead doing it locally... its just better.
 
 ## Quick start
 To get started locally, run the following on your local machine (assuming your have conda installed):
 ```
-git clone gm-datathon.github.com
-cd gm-datathon
+git clone https://github.com/josiahcoad/datathon-client
+cd datathon-client
 conda create -n gm-env python=3.8
-conda activate gm-env 
+conda activate gm-env
 pip install -r requirements.txt
-python pose_estimation.py YOUR_DISCORD_NAME
-python robot_control.py YOUR_DISCORD_NAME
-python scoring_client.py YOUR_DISCORD_NAME
+export DISCORD_USERNAME=<your discord username>
+Download the pose data from shorturl.at/lrKL8 and put the two files in the datathon-client/images folder
+python sanity_check.py
 ```
 Feel free to check out [this GitHub repository](https://github.com/josiahcoad/datathon-client) for notebooks with more examples and starter code!
 
