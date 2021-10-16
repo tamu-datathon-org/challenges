@@ -20,7 +20,7 @@ The dataset contains rules and proposed rules published by federal agencies resp
 
 The dataset contains roughly 3600 documents and additional metadata elements can be accessed via the [Federal Register API](https://www.federalregister.gov/developers/documentation/api/v1#/).
 
-Access the dataset [here](https://drive.google.com/drive/u/1/folders/1Vf-y3Y3n-jGdAmgm1Aoo5Mlikem0H2u6). Within the drive, there is starter code within a Jupyter notebook that should aid you in trying to parse the files inside the docs folder.
+**Access the dataset and other resources [here](https://drive.google.com/drive/folders/1OaB0aj7GosNXQHW0xo-MzVl_1QOkRLfd?usp=sharing)**. Within the folder, there is starter code inside a Jupyter notebook that should aid you in trying to parse the files inside the docs folder.
 
 ## Judging
 As regulatory priorities of federal agencies evolve over time, new regulatory issues and topics will emerge.  A useful output of this challenge would include a method, model, or tool to help identify these emerging issues as they occur and classify them in future Federal Reserve publications.

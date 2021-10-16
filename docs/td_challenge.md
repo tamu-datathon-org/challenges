@@ -16,7 +16,10 @@ Web scraping means extracting data from websites/webpages. The data you extract 
 
 There will also be a data visualization that accompanies your dataset, which should be informative and aesthetically organized. You can get as creative as you want with the data visualization, but more details about what we're looking for specifically can be found in the judging section below.
 
-Finally, the write-up
+Finally, the write-up should showcase your journey as well as your visualization. Your journey should include how you approached the problem, what you decided to gather, your team's thought process, etc. You should include what your data visualization means, how it could be used, how it could be interpreted, etc. At the end, you could include a section talking about how you would alter/change your approach to this problem if your team was given more than 24 hours.
+
+## Submission
+In your submission, you should include a link to the GitHub repository that contains all the code used to generate the dataset.
 
 ## Judging
 The judging criteria for this challenge will be broken down into 3 main components:
@@ -24,7 +27,7 @@ The judging criteria for this challenge will be broken down into 3 main componen
 #### The Dataset:
 - Size
    * Number of rows and columns in the dataset.
-   * The cleaniness of the dataset.
+   * The cleanliness of the dataset.
 - Uniqueness
    * Make each feature as unique as possible.
    * Try to have unique data points as well.
@@ -43,7 +46,7 @@ The judging criteria for this challenge will be broken down into 3 main componen
    * Appropiate coloring.
 
 #### Write-Up:
-- This is where the description of the write-up should be
+- 
 
 ## Prizes
 **1st Place**: Apple iPad
