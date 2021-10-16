@@ -34,18 +34,6 @@ The seperation between stage 1 and stage 2 is just to help you break down the pr
 In the end, you will only be judged based off your performance on stage 2.
 
 
-## Judging
-At any time during the competition, you are allowed to submit your solution to our backend and we
-will automatically grade you. You can query for the highscores and see where you stand. 
-
-If your team is the top *N* scores (*N* TBD) at the end of the competition, 
-your team will be asked to give a presentation to the GM judges.
-The final prizes will be chosen according to the GM judges' discretion based on a
-combination of final score and how much we like your solution.🙂
-
-We will also give an honorable mention to those teams which have the highest stage1 score.
-
-
 ## Resources
 - [Tranformation Matrix](https://en.wikipedia.org/wiki/Transformation_matrix)
 - [Open3d](http://www.open3d.org/docs/release/introduction.html)
@@ -76,3 +64,15 @@ python robot_control.py YOUR_DISCORD_NAME
 python scoring_client.py YOUR_DISCORD_NAME
 ```
 Feel free to check out [this GitHub repository](https://github.com/josiahcoad/datathon-client) for notebooks with more examples and starter code!
+
+
+## Judging
+At any time during the competition, you are allowed to submit your solution to our backend and we
+will automatically grade you. You can query for the highscores and see where you stand. 
+
+If your team is the top *N* scores (*N* TBD) at the end of the competition, 
+your team will be asked to give a presentation to the GM judges.
+The final prizes will be chosen according to the GM judges' discretion based on a
+combination of final score and how much we like your solution.🙂
+
+We will also give an honorable mention to those teams which have the highest stage1 score.

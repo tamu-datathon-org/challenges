@@ -60,8 +60,4 @@ These are are some guiding questions and listed areas of focus that we will take
    * How well will your models be able to accept new data and evolve to encourage future use?
 
 ## Prizes
-**1st Place**: $500 per team member
-
-**2nd Place**: $300 per team member
-
-**3rd Place**: $100 per team member
+**TBD**
