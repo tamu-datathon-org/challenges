@@ -10,7 +10,13 @@ easy to access all kinds of data that span across a plethora of different indust
 is to synthesize data into a large and unique dataset that can solve a real world problem!
 
 ## Description
-This is where the challenge description goes!
+This challenge involves you to use your data gathering skills to create your very own dataset. There are essentially no boundaries or limits as to what you can choose to include in your dataset. Supplemented with your dataset will be a data visualization as well as a write-up. There are a few different ways you can achieve gathering your data: web scraping, web crawling, and surveying. 
+
+Web scraping means extracting data from websites/webpages. The data you extract can be formatted into a new file like an excel spreadsheet. An example of web scraping could be a company extracting information about televisions on Amazon in order to figure out how to position their new product in the market. A key aspect of web scraping is that its done in a focused approach; that is, you'll usually be trying to extract specific information from the website. Web crawling means using bots to read and store all of the content on a website for indexing purposes. These web crawlers will usually go through every single page on a website, as opposed to web scrapers which will focus on a specific set of data on a website. Lastly, we have surverying which is as simple as it sounds! It is the act of examining a process or questioning a sample of individuals to obtain data. Feel free to extract your data by asking your peers in the Datathon!
+
+There will also be a data visualization that accompanies your dataset, which should be informative and aesthetically organized. You can get as creative as you want with the data visualization, but more details about what we're looking for specifically can be found in the judging section below.
+
+Finally, the write-up
 
 ## Judging
 The judging criteria for this challenge will be broken down into 3 main components:
