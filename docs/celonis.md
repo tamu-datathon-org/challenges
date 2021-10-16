@@ -15,7 +15,7 @@ at the pizzeria to find the problem."
 
 ## Description
 
-You have received three data sets that were taken from Pizzeria Mamma Mia’s internal systems. These data sets can be pieced 
+You have received three datasets that were taken from Pizzeria Mamma Mia’s internal systems. These data sets can be pieced 
 together to reconstruct Mamma Mia’s pizza delivery process. Using these three data sets and your Celonis technology, you will be using process data mining to 
 derive insights into Mamma Mia’s processes, and help Giovanni improve his day-to-day operations.
 

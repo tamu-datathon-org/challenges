@@ -16,7 +16,7 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 
 1. The maximum team size is 4.
 2. Teams should be made up exclusively of students who are not organizers, volunteers, judges, sponsors, or in any other privileged position at the event. 
-3. All team members should be present at the event. Leaving the venue for some time to hack elsewhere is fine.
+3. All team members should be present at the event (in-person or virtual). Leaving the venue for some time to hack elsewhere is fine.
 4. Teams can of course gain advice and support from organizers, volunteers, sponsors, and others.
 5. All work on a project should be done at the datathon.
 6. Your project must only be submitted to one challenge. However you can make multiple projects and submit to different challenges. You can only make one project submission per challenge.

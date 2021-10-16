@@ -4,8 +4,6 @@ sidebar_position: 4
 
 # Bloomberg INDG Datathon Challenge
 
-[Dataset](https://drive.google.com/drive/u/1/folders/1Vf-y3Y3n-jGdAmgm1Aoo5Mlikem0H2u6)
-
 ## Introduction
 The [Federal Register](https://www.federalregister.gov/) is "the daily journal of the United States government." The register contains official announcements from public agencies including proposed and final rules.  As such, the Federal Register is an important data point in reflecting the regulatory priorities of federal agencies.  
 
@@ -21,6 +19,8 @@ The dataset contains rules and proposed rules published by federal agencies resp
 - Securities and Exchange Commission (SEC)
 
 The dataset contains roughly 3600 documents and additional metadata elements can be accessed via the [Federal Register API](https://www.federalregister.gov/developers/documentation/api/v1#/).
+
+Access the dataset [here](https://drive.google.com/drive/u/1/folders/1Vf-y3Y3n-jGdAmgm1Aoo5Mlikem0H2u6). Within the drive, there is starter code within a Jupyter notebook that should aid you in trying to parse the files inside the docs folder.
 
 ## Judging
 As regulatory priorities of federal agencies evolve over time, new regulatory issues and topics will emerge.  A useful output of this challenge would include a method, model, or tool to help identify these emerging issues as they occur and classify them in future Federal Reserve publications.
@@ -39,8 +39,6 @@ As regulatory priorities of federal agencies evolve over time, new regulatory is
 
 
 ## Prizes
-**1st Place**: $500 per team member
+**1st Place**: Nintendo Switch
 
-**2nd Place**: $300 per team member
-
-**3rd Place**: $100 per team member
+**2nd Place**: Eddie Bauer Softshell Jacket with the Bloobmerg INDG logo

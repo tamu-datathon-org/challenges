@@ -7,7 +7,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 const FeatureList = [
   {
     title: 'General Motors Challenge',
-    imgUrl: '/img/gm_new.gif',
+    imgUrl: '/img/gm_logo.png',
     description: (
       <>
         <p>This is a short description for this challenge. Should hook people in and all that.</p>
@@ -34,7 +34,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Bloomberg Challenge',
+    title: 'Bloomberg INDG Challenge',
     imgUrl: "/img/bloomberg.svg",
     description: (
       <>
