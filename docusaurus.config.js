@@ -52,7 +52,7 @@ const config = {
             target: '_self'
           },
           {
-            href: 'https://tamudatathon.com/challenges',
+            href: 'https://tamudatathon.com/schedule',
             label: 'Schedule',
             position: 'left',
             target: '_self'
