@@ -46,7 +46,14 @@ The judging criteria for this challenge will be broken down into 3 main componen
    * Appropiate coloring.
 
 #### Write-Up:
-- 
+- Process
+   * Describes team's approach to problem.
+   * Includes
+- Visualization Interpretability
+   * Explains what it means/portrays.
+- Reflection (optional)
+   * What gave your team the most problems during this challenge?
+   * What would your team do differently if you were given more than 24 hours?
 
 ## Prizes
 **1st Place**: Apple iPad
