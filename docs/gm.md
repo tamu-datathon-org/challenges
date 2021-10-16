@@ -21,6 +21,14 @@ That is, you must control the robot based off where you predict the bolt is at a
 
 When you feel like you are ready, you can combine your solutions to pose challenge and robot challenge and submit to the combined challenge which now gives you depth images of the bolts and you have to control the robot off of (instead of the underlying pose of the bolt).
 
+![gm_pic1](./gm/gm_1.png)
+
+Here you can see a bolt that has been translated and rotated. Using a lidar camera, we can get both a grayscale image (sometimes called texture) and a depth cloud (that can be converted into a pointcloud). Given these images, would you be able to predict what the transform was?
+
+![gm_pic2](./gm/gm_2.png)
+
+You can solve the combined challenge in one go. Or you can solve the pose-etimation challenge and robot-control challenge and them combine them to solve the combined challenge.
+
 
 ## Resources
 - [Tranformation Matrix](https://en.wikipedia.org/wiki/Transformation_matrix)
@@ -67,4 +75,6 @@ If your team is the top *N* scores (*N* TBD) at the end of the competition for a
 ## Prizes
 **1st Place**: Any $200 purchase from Amazon per team member
 
-**2nd Place**: $100 gift card per team member
+**2nd Place**: RC C8 Corvettes
+
+**3rd Place**: Nerf Gun pack

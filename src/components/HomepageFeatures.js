@@ -12,7 +12,8 @@ const FeatureList = [
       <>
         <p>
           🥇$200 purchase from Amazon per team member<br></br>
-          🥈$100 gift card per team member
+          🥈RC C8 Corvettes<br></br>
+          🥉Nerf Gun pack
         </p>
         <Link
             className="button button--primary button--lg"
