@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'TAMU Datathon 2021 Challenges',
   tagline: 'Make a submission to a challenge and win prizes!',
-  url: 'https://tamudatathon.com/challenges',
+  url: 'https://tamudatathon.com',
   baseUrl: '/challenges/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -87,7 +87,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} TAMU Datathon. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} TAMU Datathon. Built with Docusaurus. Made with love in Aggieland.`,
       },
       prism: {
         theme: lightCodeTheme,

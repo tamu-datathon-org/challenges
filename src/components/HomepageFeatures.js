@@ -2,14 +2,19 @@ import React from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import styles from './HomepageFeatures.module.css';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 const FeatureList = [
   {
     title: 'General Motors Challenge',
-    Svg: require('../../static/img/gm_logo.svg').default,
+    imgUrl: '/img/gm_logo.png',
     description: (
       <>
-        <p>This is a short description for this challenge. Should hook people in and all that.</p>
+        <p>
+          🥇$200 purchase from Amazon per team member<br></br>
+          🥈RC C8 Corvettes<br></br>
+          🥉Nerf Gun pack
+        </p>
         <Link
             className="button button--primary button--lg"
             to="/docs/gm">
@@ -19,68 +24,80 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Goldman Sachs',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Goldman Sachs Challenge',
+    imgUrl: "/img/goldman_sachs_logo.png",
     description: (
       <>
-        <p>This is a short description for this challenge. Should hook people in and all that.</p>
+        <p>
+          🥇Skullcandy Hesh Headphones (+ GS swag)<br></br>
+          🥈Goldman Sachs Swag
+        </p>
         <Link
             className="button button--primary button--lg"
-            to="/docs/intro">
+            to="/docs/goldman">
             Learn more
         </Link>
       </>
     ),
   },
   {
-    title: 'Bloomberg Challenge',
-    Svg: require('../../static/img/bloomberg.svg').default,
+    title: 'Bloomberg INDG Challenge',
+    imgUrl: "/img/bloomberg.svg",
     description: (
       <>
-        <p>This is a short description for this challenge. Should hook people in and all that.</p>
+        <p>
+          🥇Nintendo Switch<br></br>
+          🥈Eddie Bauer Softshell Jacket
+        </p>
         <Link
             className="button button--primary button--lg"
-            to="/docs/intro">
+            to="/docs/bloomberg">
             Learn more
         </Link>
       </>
     ),
   },
   {
-    title: 'Kaggle Challenge',
-    Svg: require('../../static/img/td-logo.svg').default,
+    title: 'Celonis Challenge',
+    imgUrl: "/img/celonis_logo.png",
     description: (
       <>
-        <p>The world is filled with data that can be collected. Turn on your creative minds and gather as much data as you can about an interesting topic!</p>
+        <p>
+          🥇$100 gift card to each team member (+ $25 raffle)
+        </p>
         <Link
             className="button button--primary button--lg"
-            to="/docs/kaggle">
+            to="/docs/celonis">
             Learn more
         </Link>
       </>
     ),
   },
   {
-    title: 'Color Filler Challenge',
-    Svg: require('../../static/img/td-logo.svg').default,
+    title: 'TD Data Synthesis Challenge',
+    imgUrl: "/img/td_logo.svg",
     description: (
       <>
-        <p>This is a short description for this challenge. Should hook people in and all that.</p>
+        <p>
+          🥇Apple iPad<br></br>
+          🥈Nintendo Switch Lite<br></br>
+          🥉Apple AirPods
+        </p>
         <Link
             className="button button--primary button--lg"
-            to="/docs/intro">
+            to="/docs/td_challenge">
             Learn more
         </Link>
       </>
     ),
-  }
+  },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({imgUrl, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} alt={title} />
+        <img src={useBaseUrl(imgUrl)} className={styles.featureSvg} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
