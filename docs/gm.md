@@ -72,9 +72,9 @@ At any time during the competition, you are allowed to submit your solution to o
 If your team is the top *N* scores (*N* TBD) at the end of the competition for a particular sub-challenge, your team will be asked to give a presentation to the GM judges. The final prizes will be chosen according to the GM judges' discretion based on a combination of final score and how much we like your solution.😃
 
 
-## Prizes
+<!-- ## Prizes
 **1st Place**: Any $200 purchase from Amazon per team member
 
 **2nd Place**: RC C8 Corvettes
 
-**3rd Place**: Nerf Gun pack
+**3rd Place**: Nerf Gun pack -->
