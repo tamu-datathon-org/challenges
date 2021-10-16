@@ -11,7 +11,7 @@ const FeatureList = [
     description: (
       <>
         <p>
-          🥇Any $200 purchase from Amazon per team member<br></br>
+          🥇$200 purchase from Amazon per team member<br></br>
           🥈$100 gift card per team member
         </p>
         <Link
