@@ -11,9 +11,9 @@ const FeatureList = [
     description: (
       <>
         <p>
-          {/* 🥇$200 purchase from Amazon per team member<br></br>
+          🥇$200 purchase from Amazon per team member<br></br>
           🥈RC C8 Corvettes<br></br>
-          🥉Nerf Gun pack */}
+          🥉Nerf Gun pack
         </p>
         <Link
             className="button button--primary button--lg"
