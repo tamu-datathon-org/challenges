@@ -33,7 +33,7 @@ https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-k
 https://www.analyticsvidhya.com/blog/2021/06/image-processing-using-cnn-a-beginners-guide/
 
 ## Scoring Criteria
-![image](./bakerhughes/bhrubric1.png)
+![image](./bakerhughes/bhrubric.png)
 
 ## Important
 Please include a requirements text to run your code. Without the proper environment, our team will be
