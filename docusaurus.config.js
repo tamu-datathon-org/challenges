@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'TAMU Datathon 2021 Challenges',
+  title: 'TAMU Datathon 2022 Challenges',
   tagline: 'Make a submission to a challenge and win prizes!',
   url: 'https://tamudatathon.com',
   baseUrl: '/challenges/',

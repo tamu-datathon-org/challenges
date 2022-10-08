@@ -2,63 +2,58 @@
 sidebar_position: 6
 ---
 
-# TD Data Synthesis Challenge
+# TAMU Datathon Challenge: Puzzle Solver
+
 
 ## Introduction
-The world is full of data which can be found everywhere and anywhere you look. Fortunately, the internet makes it very 
-easy to access all kinds of data that span across a plethora of different industries. Your objective for this challenge
-is to synthesize data into a large and unique dataset that can solve a real world problem!
+Processing image information in an efficient way that extracts the needed information is a challenging task. As robots develop, they will need to do this, visualizing the outside world using sensors which give it a snapshot of what its environment is like. Reconstructing a jumbled image is a good way to gain insight into the key features which make up that image’s representation of the world.
+
 
 ## Description
-This challenge involves you to use your data gathering skills to create your very own dataset. There are essentially no boundaries or limits as to what you can choose to include in your dataset. Supplemented with your dataset will be a data visualization as well as a write-up. There are a few different ways you can achieve gathering your data: web scraping, web crawling, and surveying. 
+For this challenge, you will be given an array of images. Your job is to write a program which can take this array of images and return it in the correct order such that it can construct the goal image.
 
-Web scraping means extracting data from websites/webpages. The data you extract can be formatted into a new file like an excel spreadsheet. An example of web scraping could be a company extracting information about televisions on Amazon in order to figure out how to position their new product in the market. A key aspect of web scraping is that its done in a focused approach; that is, you'll usually be trying to extract specific information from the website. Web crawling means using bots to read and store all of the content on a website for indexing purposes. These web crawlers will usually go through every single page on a website, as opposed to web scrapers which will focus on a specific set of data on a website. Lastly, we have surverying which is as simple as it sounds! It is the act of examining a process or questioning a sample of individuals to obtain data. Feel free to extract your data by asking your peers in the Datathon!
+There are two versions of this problem, one where you are given the final image to use in your algorithm, and a harder version where you are only given the scrambled image parts. 
 
-There will also be a data visualization that accompanies your dataset, which should be informative and aesthetically organized. You can get as creative as you want with the data visualization, but more details about what we're looking for specifically can be found in the judging section below.
+![puzzle_solver_pic_1](./puzzle_solver/scrambled_image.png)
 
-Finally, the write-up should showcase your journey as well as your visualization. Your journey should include how you approached the problem, what you decided to gather, your team's thought process, etc. You should include what your data visualization means, how it could be used, how it could be interpreted, etc. At the end, you could include a section talking about how you would alter/change your approach to this problem if your team was given more than 24 hours.
+Above is an example of a scrambled image
 
-## Submission
-In your submission, you should include a link to the GitHub repository that contains all the code used to generate the dataset.
+We will provide you with a set of training images. They will be similar to the example above. You should be able to deal with different types of images(grayscale vs rgb, different dimensions, etc.).
+
+When we are testing your code, we will use some unique images that you do not have access to. 
+
+As input you can expect:
+A folder of scrambled images.
+
+For output, we expect:
+The unscrambled version of each image.
+
+
+## Resources
+This talks about unscrambling some real images (like shredded documents and double scrambled images).
+[unscrambling images](https://dahtah.github.io/imager/unshuffle.html)
+
+This seems like some good information in figuring out pixel relationships.
+[pixel relationships](https://www.philadelphia.edu.jo/academics/qhamarsheh/uploads/Lecture_8_Basic_Relationships_between_Pixels.pdf)
+
+This is some information about using neural networks for image classification, which could be a useful tool in trying to solve this problem.
+[image classification](https://medium.com/swlh/a-hello-world-into-image-recognition-with-mnist-eb9b91520db4)
+ 
+
+## How to get started
+We have provided some starter code for you to build off of. You can choose to use a completely different method if you would like, just make sure that the class you are submitting has the required functions and return types as specified by the starter_code.py file. 
+
+
+## Quick start
+TODO put our own code here
+
 
 ## Judging
-The judging criteria for this challenge will be broken down into 3 main components:
-
-#### The Dataset:
-- Size
-   * Number of rows and columns in the dataset.
-   * The cleanliness of the dataset.
-- Uniqueness
-   * Make each feature as unique as possible.
-   * Try to have unique data points as well.
-   * Fresh collection that hasn’t been seen already on Kaggle or other websites.
-- Usefulness
-   * Applicability to different industries.
-   * Ability to solve real world problems.
-
-
-#### The Visualization:
-- Insight
-   * The visualization should be informative and interesting.
-   * Showcases connections between variables that are difficult to describe with words alone.
-- Presentation
-   * Everything on the visualization should be clear and not cluttered.
-   * Appropiate coloring.
-
-#### Write-Up:
-- Process
-   * Describes team's approach to problem.
-   * Includes
-- Visualization Interpretability
-   * Explains what it means/portrays.
-- Reflection (optional)
-   * What gave your team the most problems during this challenge?
-   * What would your team do differently if you were given more than 24 hours?
+Output files which are closer to the target output file will be scored higher. A similarity score is computed, with 100 being a completely correct answer, and 0 being a completely incorrect answer. We will judge your program across multiple target and scrambled images. 
 
 ## Prizes
-**1st Place**: Apple iPad
+**1st Place**: Prize1
 
-**2nd Place**: Nintendo Switch Lite
+**2nd Place**: Prize2
 
-**3rd Place**: Apple AirPods
-
+**3rd Place**: Prize3

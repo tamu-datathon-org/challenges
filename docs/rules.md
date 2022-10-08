@@ -26,17 +26,9 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 10. Projects that violate the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf) are not allowed. 
 11. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf), or other unsporting behaviour.
 
-
-## Demos
-
-After hacking finishes, teams will present their projects in a demo video. This video should be no longer than 3 minutes long (video footage exceeding the 3 minute mark will not be seen by the judges).
-
-You are not judged on the quality of your pitch.
-
-You are encouraged to present what you have done even if your project is broken or you weren’t able to finish. It's okay if you didn't finish your project — that happens all the time! Completion is only one part of the judging criteria, so you might still do well. Also, demoing is not just about the competition. It's a chance to share with others what you learned and what you tried to build—that's what hacking's all about!
-
-For being courageous enough to demo and get through the datathon, you'll receieve a TAMU Datathon 2021 exclusive T-shirt!
-
+:::note
+If you submit a video, you will be judged virtually.
+:::
 
 ## Remember!
 

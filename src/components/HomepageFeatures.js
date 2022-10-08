@@ -6,37 +6,70 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 const FeatureList = [
   {
-    title: 'General Motors Challenge',
-    imgUrl: '/img/gm_logo.png',
+    title: 'TBD',
+    imgUrl: '/img/baker_hughes_logo.svg',
     description: (
       <>
         <p>
-          🥇$200 purchase from Amazon per team member<br></br>
-          🥈RC C8 Corvettes<br></br>
-          🥉Nerf Gun pack
+          TBD
         </p>
         <Link
             className="button button--primary button--lg"
-            to="/docs/gm">
+            to="/docs/baker_hughes1">
             Learn more
         </Link>
       </>
     ),
   },
   {
-    title: 'Goldman Sachs Challenge',
-    imgUrl: "/img/goldman_sachs_logo.png",
+    title: 'Object Detection in Advanced Manufacturing',
+    imgUrl: "/img/baker_hughes_logo.svg",
     description: (
       <>
         <p>
-          🥇Skullcandy Hesh Headphones (+ GS swag)<br></br>
-          🥈Goldman Sachs Swag
+          🥇Miuzei Super Starter Kit & BH Notepads<br></br>
+          🥈Power Banks & Water Bottles (may need to pick up at later date)<br></br>
+          🥉5-in-1 Charging Cables & Tote Bags (may need to pick up at later date)
         </p>
         <Link
             className="button button--primary button--lg"
-            to="/docs/goldman">
+            to="/docs/baker_hughes2">
             Learn more
         </Link>
+      </>
+    ),
+  },
+  {
+    title: 'Get in Line',
+    imgUrl: "/img/cbre.png",
+    description: (
+      <>
+        <p>
+          🥇$125 Amazon gift card, each<br></br>
+          🥈$75 Amazon gift card, each <br></br>
+          🥉$50 Amazon gift card, each
+        </p>
+        <Link
+            className="button button--primary button--lg"
+            to="/docs/cbre">
+            Learn more
+        </Link>
+      </>
+    ),
+  },
+  {
+    title: 'TBD',
+    imgUrl: "/img/celonis_logo.png",
+    description: (
+      <>
+        <p>
+          TBD
+        </p>
+        {/* <Link
+            className="button button--primary button--lg"
+            to="/docs/celonis">
+            Learn more
+        </Link> */}
       </>
     ),
   },
@@ -46,9 +79,9 @@ const FeatureList = [
     description: (
       <>
         <p>
-          🥇Nintendo Switch<br></br>
-          🥈Eddie Bauer Softshell Jacket
-        </p>
+          🥇Bose Sport True Wireless Bluetooth Earbud<br></br>
+          🥈RK ROYAL KLUDGE RK100 Wireless Mechanical Keyboard<br></br>
+          </p>
         <Link
             className="button button--primary button--lg"
             to="/docs/bloomberg">
@@ -58,34 +91,34 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Celonis Challenge',
-    imgUrl: "/img/celonis_logo.png",
+    title: 'Puzzle Solver',
+    imgUrl: "/img/td_logo.webp",
     description: (
       <>
         <p>
-          🥇$100 gift card to each team member (+ $25 raffle)
+          🥇iPad<br></br>
+          🥈AirPods (3rd generation)<br></br>
+          🥉$50 Gift Card
         </p>
         <Link
             className="button button--primary button--lg"
-            to="/docs/celonis">
+            to="/docs/td_challenge">
             Learn more
         </Link>
       </>
     ),
   },
   {
-    title: 'TD Data Synthesis Challenge',
-    imgUrl: "/img/td_logo.svg",
+    title: 'MLH Challenges',
+    imgUrl: "/img/mlh_logo.svg",
     description: (
       <>
         <p>
-          🥇Apple iPad<br></br>
-          🥈Nintendo Switch Lite<br></br>
-          🥉Apple AirPods
+          Prizes may vary!
         </p>
         <Link
             className="button button--primary button--lg"
-            to="/docs/td_challenge">
+            to="/docs/mlh_challenges">
             Learn more
         </Link>
       </>

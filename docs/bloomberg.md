@@ -2,44 +2,85 @@
 sidebar_position: 4
 ---
 
-# Bloomberg INDG Datathon Challenge
-Identifying Shifting Policy Priorities in the Federal Register.
+# Bloomberg Industry Group 2022 Datathon Challenge 
 
-## Introduction
-The [Federal Register](https://www.federalregister.gov/) is "the daily journal of the United States government." The register contains official announcements from public agencies including proposed and final rules.  As such, the Federal Register is an important data point in reflecting the regulatory priorities of federal agencies.  
+## What is an embedding?
+An embedding is a dense mathematical representation of some input data.  For this challenge, the embedding is the first half of Bloomberg INDG's prototype model to assign news articles to various publishing channels.  
 
-## Description
+The output is a 512 element list of 16 floating point numbers from -1 to 1.  The list is a compressed representation of the input text fed to the model.  For those with experience in deep learning, this is the output of a tanh pooling layer.  
 
-The dataset contains rules and proposed rules published by federal agencies responsible for regulating financial markets in the United States from January 1, 2001 through July of 2021.  The agencies included are:
+## The Data
+There are two embedding datasets for this challenge
 
-- Commodity Futures Trading Commission (CFTC)
-- Office of the Comptroller of the Currency (OCC)
-- Consumer Financial Protection Bureau (CFPB)
-- Federal Deposit Insurance Corporation (FDIC)
-- The Federal Reserve Board (FRB)
-- Securities and Exchange Commission (SEC)
+- [`cnn_samples.csv`](./bloomberg/cnn_samples.csv) - A small sample of CNN articles from the `cnn_dailymail` [dataset](https://huggingface.co/datasets/cnn_dailymail) along with generated embeddings.  The data is made available under the [Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
+- [`federal_samples.csv`](./bloomberg/federal_samples.csv) - A sample of press releases from various US government agencies along with embeddings.  
 
-The dataset contains roughly 3600 documents and additional metadata elements can be accessed via the [Federal Register API](https://www.federalregister.gov/developers/documentation/api/v1#/).
+## The Challenge 
 
-**Access the dataset and other resources [here](https://drive.google.com/drive/folders/1OaB0aj7GosNXQHW0xo-MzVl_1QOkRLfd?usp=sharing)**. Within the folder, there is starter code inside a Jupyter notebook that should aid you in trying to parse the files inside the docs folder.
+### Part One (50 points possible)
+There are five mystery articles with embedding shown in [`challenge.csv`](./bloomberg/challenge.csv).  For each article, make your best educated guess as to what the article is about.  It can be as broad or as precise as you'd like.  (Feel free to offer up a phrase, sentence, or even a paragraph to describe your guess.  Dissertations not welcome.)
 
-## Judging
-As regulatory priorities of federal agencies evolve over time, new regulatory issues and topics will emerge.  A useful output of this challenge would include a method, model, or tool to help identify these emerging issues as they occur and classify them in future Federal Reserve publications.
+The closest team for each article gets 10 points, the 2nd closest team gets 5 points, the 3rd closest gets 2 points.
 
-- What were the common regulatory priorities of these agencies from 2001 through 2006?
-- What new topics and issues emerged from 2007 through 2012?  (And what topics went awaay?)
-- How significantly do topics shift between administrations?  (Bush-Obama in 2008-09, Obama-Trump in 2016-17)
-- How many times, on average, would a topic need to be discussed before it is flagged as an emerging topic?
+### Part Two (25 points + 5 style points possible)
+Build a ~~binary~~ classifier using the embeddings!
 
-## Suggestions 
+Can you classify product reviews?  Can you detect spam??   We don't know!  
 
-1.  Take panels of data, a few years at a time, and analyze them against the next panel of data.  
-2.  Unsupervised clustering would likely be useful here to identify topic clusters.
-3.  A tool to assist in manual review of identified clusters would also be helpful.  (Perhaps a way of tracking what clusters were helpful and which clusters were not.)
-4.  Events for testing methods and approaches include the housing crisis of 2008 (and prior/subsequet rulemaking leading up to it) and the still ongoing COVID-19 crisis.  A good unsupervised approach would identify both events as new clusters.
+Classifiers will be judged on methodology (10), technical implementation (10), and novelty (5). **Usefulness of model not a factor.**
+
+### Bonus (0 points)
+Guess the 6th mystery embedding.  It's in [`mystery.json`](./bloomberg/mystery.zip) .
 
 
-## Prizes
-**1st Place**: Nintendo Switch
 
-**2nd Place**: Eddie Bauer Softshell Jacket with the Bloobmerg INDG logo
+*Hint: It's not a news article.*
+
+## Where do I start?
+You can do lots of things with embeddings but mostly, they are inputs for other models.  Theoretically, similar input data will generate similar embeddings.  Though you should probably check for yourself if this is true.
+
+There are numerous ways to measure similarity.  The most common methods are euclidian distance and cosine similarity but don't let yourself be constrained to these.  If you have a good hypothesis for a novel similarity measure, here's your chance to test it out!
+
+(There are some examples in [`similarity-example.py`](./bloomberg/similarity-example.py) ).
+
+Once you decide on a distance metric, you can use methods like k-Nearest Neighbors to compare data points to groups of neighbors.  You can even use graphs to represent relationships between data points.  Here's your chance to experiment and go wild!
+
+## I need more data points
+You'll probably need more data.  You can call our API to generate more embeddings.  All you need to do is give it an API key and some text.
+
+**Each team will be provided an API key which will be throttled to X number of calls per minute.**  Larger teams may need to self-throttle so everyone on the team can use the API.
+
+Here's how to get an embedding: 
+
+### Via Code 
+See [`api-example.py`](./bloomberg/api-example.py) .
+
+### Via Postman
+You can call the API from a browser using [Postman](https://postman.com).  
+
+1. In the address bar, use the URL: https://datathon.bindgapi.com/channel
+2. Change method from GET to POST.
+3. Under **headers** make sure you have the following keys:
+    - X-API-KEY = "Your API Key Here"
+    - Content-Type = "application/json"
+4. Under **body**, select raw, JSON, and input the body in the following JSON format:
+
+```json
+{
+    "input": "text goes here"
+}
+```
+
+## Prizes 
+- **First place**: Bose Sport True Wireless Bluetooth Earbud
+- **Second place**: RK ROYAL KLUDGE RK100 Wireless Mechanical Keyboard
+
+## FAQs
+### How do I win?
+Get the most points as a team 
+
+### That's a lot of numbers, do I need to use all of them?
+Nope.  Regularization is an important technique in statistics and data science.
+
+### What's the mystery prize?
+It's a mystery.
