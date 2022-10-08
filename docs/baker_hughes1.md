@@ -98,4 +98,4 @@ Challenge evaluation score table:
 - [Energy transition](https://www.bakerhughes.com/energy-transition)
 - [The path to net-zero and a sustainable energy future](https://www.bakerhughes.com/sites/bakerhughes/files/2021-10/Baker%20Hughes%20-%20The%20path%20to%20net-zero%20and%20a%20sustainable%20energy%20future.pdf)
     - [Episode 1](https://www.youtube.com/watch?v=tB_mcOSEy_Y&feature=youtu.be)
-    - [Episode 2](https://www.youtube.com/watch?v=VeX3Iafrlx8).
+    - [Episode 2](https://www.youtube.com/watch?v=VeX3Iafrlx8)
