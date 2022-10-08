@@ -29,12 +29,7 @@ When we test your code, we will use many unique images that you do not have acce
 ## Code Structure
 We have provided starter code for you to build off of. You can choose to use a completely different method if you would like, just make sure that the directory structure, filenames, class name, and function name and signature you submit is consistent with the structure detailed below (and in the starter code template). 
 
-src
-├── submission.py
-│   └── class Predictor
-│       └── def make_prediction(self, img_path) return str
-├── requirements.txt
-└── [any other files your solution needs]
+![src](./puzzle_solver/src.png)
 
 Check out the starter code in the section below for a working example submission.
 
@@ -50,13 +45,7 @@ Check out the starter code in the section below for a working example submission
 - src.zip should unzip to a folder called src. Do not directly zip just the contents of the src folder.
 - Your submission should be of the following form:
 
-src.zip
-└── src
-    ├── submission.py
-    │   └── class Predictor
-    │       └── def make_prediction(self, img_path) return str
-    ├── requirements.txt
-    └── [any other files your solution needs]
+![src_zip](./puzzle_solver/src_zip.png)
 
 **[Submit your zipped file here](https://docs.google.com/forms/d/e/1FAIpQLSfMIe69QkRnm4950rvO-JNBoNmDK9M9FnEZt_q4-Ltu8rt19Q/viewform)**
 
