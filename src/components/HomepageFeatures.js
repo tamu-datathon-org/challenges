@@ -42,7 +42,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Get in Line + Math Mini-Challenge',
+    title: 'Get in Line',
     imgUrl: "/img/cbre.png",
     description: (
       <>
