@@ -6,18 +6,20 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 const FeatureList = [
   {
-    title: 'TBD',
+    title: 'Gas Turbine Data Visualization',
     imgUrl: '/img/baker_hughes_logo.svg',
     description: (
       <>
         <p>
-          TBD
+          🥇Miuzei Super Starter Kit & BH Notepads<br></br>
+          🥈Power Banks & Water Bottles (may need to pick up at later date)<br></br>
+          🥉5-in-1 Charging Cables & Tote Bags (may need to pick up at later date)
         </p>
-        {/* <Link
+        <Link
             className="button button--primary button--lg"
             to="/docs/baker_hughes1">
             Learn more
-        </Link> */}
+        </Link>
       </>
     ),
   },
