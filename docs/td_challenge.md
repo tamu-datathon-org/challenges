@@ -5,28 +5,49 @@ sidebar_position: 6
 # TAMU Datathon Challenge: Puzzle Solver
 
 
-## Introduction
-Processing image information in an efficient way that extracts the needed information is a challenging task. As robots develop, they will need to do this, visualizing the outside world using sensors which give it a snapshot of what its environment is like. Reconstructing a jumbled image is a good way to gain insight into the key features which make up that image’s representation of the world.
-
-
 ## Description
-For this challenge, you will be given an array of images. Your job is to write a program which can take this array of images and return it in the correct order such that it can construct the goal image.
+For this challenge, you will be given a scrambled image.
 
-There are two versions of this problem, one where you are given the final image to use in your algorithm, and a harder version where you are only given the scrambled image parts. 
+Your job is to write a program which can take this scrambled image, and return a string representing the ordering of the pieces that is required to unscramble this image.
 
-![puzzle_solver_pic_1](./puzzle_solver/scrambled_image.png)
+![scrambled_image](./puzzle_solver/scrambled_image.jpg)
 
-Above is an example of a scrambled image
+Above is an example of a scrambled image, with purple numbers indicating where each puzzle piece should have been placed.
 
-We will provide you with a set of training images. They will be similar to the example above. You should be able to deal with different types of images(grayscale vs rgb, different dimensions, etc.).
+- 0 indicates the top left position
+- 1 indicates the top right position
+- 2 indicates the bottom left position
+- 3 indicates the bottom right position
 
-When we are testing your code, we will use some unique images that you do not have access to. 
+Using the above image, your program would be expected to return the string "3120".
 
-As input you can expect:
-A folder of scrambled images.
+We will provide you with a set of [training images](https://drive.google.com/file/d/1tQTwXA3Z_ISTAZPScEz8baUYqgafRtpQ/view?usp=sharing). They will be similar to the example above. All images will be 128x128 RGB pixels. All puzzles will be 2x2.
 
-For output, we expect:
-The unscrambled version of each image.
+When we test your code, we will use many unique images that you do not have access to.
+
+
+## Code Structure
+We have provided starter code for you to build off of. You can choose to use a completely different method if you would like, just make sure that the directory structure, filenames, class name, and function name and signature you submit is consistent with the structure detailed below (and in the starter code template). 
+
+![src](./puzzle_solver/src.png)
+
+Check out the starter code in the section below for a working example submission.
+
+
+## Starter Code
+[starter code](https://drive.google.com/file/d/1xFX9b1OwwQ9VCkQqL7B9DxykqP7vqnfi/view?usp=sharing)
+
+[training images](https://drive.google.com/file/d/1tQTwXA3Z_ISTAZPScEz8baUYqgafRtpQ/view?usp=sharing)
+
+
+## Submission
+- When ready to submit, zip the src folder, and submit the zipped folder (named src.zip).
+- src.zip should unzip to a folder called src. Do not directly zip just the contents of the src folder.
+- Your submission should be of the following form:
+
+![src_zip](./puzzle_solver/src_zip.png)
+
+**[Submit your zipped file here](https://docs.google.com/forms/d/e/1FAIpQLSfMIe69QkRnm4950rvO-JNBoNmDK9M9FnEZt_q4-Ltu8rt19Q/viewform)**
 
 
 ## Resources
@@ -38,22 +59,15 @@ This seems like some good information in figuring out pixel relationships.
 
 This is some information about using neural networks for image classification, which could be a useful tool in trying to solve this problem.
 [image classification](https://medium.com/swlh/a-hello-world-into-image-recognition-with-mnist-eb9b91520db4)
- 
-
-## How to get started
-We have provided some starter code for you to build off of. You can choose to use a completely different method if you would like, just make sure that the class you are submitting has the required functions and return types as specified by the starter_code.py file. 
-
-
-## Quick start
-TODO put our own code here
 
 
 ## Judging
-Output files which are closer to the target output file will be scored higher. A similarity score is computed, with 100 being a completely correct answer, and 0 being a completely incorrect answer. We will judge your program across multiple target and scrambled images. 
+We will judge your program across many images in our secret scrambled dataset. Only outputs that match exactly with the intended un-scramble order will be counted towards your submission.
+
 
 ## Prizes
-**1st Place**: Prize1
+**1st Place**: iPad (latest) per team member
 
-**2nd Place**: Prize2
+**2nd Place**: AirPod Pros per team member
 
-**3rd Place**: Prize3
+**3rd Place**: $100 Visa Gift card per team member
