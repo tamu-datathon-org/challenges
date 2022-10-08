@@ -26,7 +26,7 @@ methods, develop a working object detection model, apply appropriate model valid
 thought & implementation process for your overall algorithm, and appropriate commenting of your code to
 enhance the readability.
 
-The data and a walkthrough can be found at the following link: https://blog.paperspace.com/objectdetection-segmentation-with-detectron2-on-paperspace-gradient/
+The data and a walkthrough can be found at the following link: https://blog.paperspace.com/object-detection-segmentation-with-detectron2-on-paperspace-gradient/ .
 
 ## Additional Resources:
 https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/
