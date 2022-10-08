@@ -37,6 +37,9 @@ Guess the 6th mystery embedding.  It's in [`mystery.json`](./bloomberg/mystery.z
 *Hint: It's not a news article.*
 
 ## Where do I start?
+
+[https://github.com/bloombergindustry/datathon2022-challenge](https://github.com/bloombergindustry/datathon2022-challenge)
+
 You can do lots of things with embeddings but mostly, they are inputs for other models.  Theoretically, similar input data will generate similar embeddings.  Though you should probably check for yourself if this is true.
 
 There are numerous ways to measure similarity.  The most common methods are euclidian distance and cosine similarity but don't let yourself be constrained to these.  If you have a good hypothesis for a novel similarity measure, here's your chance to test it out!
