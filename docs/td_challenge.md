@@ -35,7 +35,7 @@ Check out the starter code in the section below for a working example submission
 
 
 ## Starter Code
-[starter code](https://drive.google.com/file/d/1xFX9b1OwwQ9VCkQqL7B9DxykqP7vqnfi/view?usp=sharing)
+[starter code](https://drive.google.com/file/d/1TWA4ItnszuHgIAtTES6Z1ouSwhjNZCmk/view?usp=sharing)
 
 [training images](https://drive.google.com/file/d/1tQTwXA3Z_ISTAZPScEz8baUYqgafRtpQ/view?usp=sharing)
 
