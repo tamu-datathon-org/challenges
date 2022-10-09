@@ -4,6 +4,10 @@ sidebar_position: 3
 
 # Baker Hughes Challenge: Gas Turbine Data Visualization Challenge
 
+## [NEW] Devpost Guidelines
+1. Create a submission on [devpost](https://tamudatathon2022.devpost.com)
+2. All submissions (virtual and in-person) should have video under 5 minutes.
+
 ## Challenge Description
 As an energy technology company, at Baker Hughes (BH) we approach to a sustainable energy future by deploying the most efficient and least emissive technologies. To help industry advance on the path to net-zero and a sustainable energy future, one of the strategies to follow is identify, control, and reduce emissions from operations.
 
