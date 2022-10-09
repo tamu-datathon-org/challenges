@@ -4,6 +4,12 @@ sidebar_position: 4
 
 # Bloomberg Industry Group 2022 Datathon Challenge 
 
+## [NEW] Devpost Guidelines
+1. Create a submission on [devpost](https://tamudatathon2022.devpost.com)
+2. Include your answers for Part One, Part Two, and Bonus in the devpost markdown
+3. Virtual particiapnts do not need to submit a video.
+4. **In-person judging**
+
 ## What is an embedding?
 An embedding is a dense mathematical representation of some input data.  For this challenge, the embedding is the first half of Bloomberg INDG's prototype model to assign news articles to various publishing channels.  
 
