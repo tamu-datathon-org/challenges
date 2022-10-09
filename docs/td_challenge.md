@@ -25,6 +25,48 @@ We will provide you with a set of [training images](https://drive.google.com/fil
 
 When we test your code, we will use many unique images that you do not have access to.
 
+## [NEW] Solution Clarification
+![scrambled_image](./puzzle_solver/scrambled_image.jpg)
+
+To un-scramble this image:
+  - the top-left image should be moved to position 3
+  - the top-right image should stay at position 1
+  - the bottom-left image should stay at position 2
+  - the bottom-right image should be moved to position 0
+  - Therefore, the solution string is “3120”
+
+-------------------------------------------------------------
+![00022](./puzzle_solver/00022.jpg)
+
+To un-scramble this image:
+  - the top-left image should be moved to position 1
+  - the top-right image should be moved to position 2
+  - the bottom-left image should be moved to position 3
+  - the bottom-right image should be moved to position 0
+  - Therefore, the solution string is “1230”
+
+-------------------------------------------------------------
+![00099](./puzzle_solver/00099.jpg)
+
+To un-scramble this image:
+  - the top-left image should stay at position 0
+  - the top-right image should stay at position 1
+  - the bottom-left image should be moved to position 3
+  - the bottom-right image should be moved to position 2
+  - Therefore, the solution string is “0132”
+
+-------------------------------------------------------------
+![01950](./puzzle_solver/01950.jpg)
+
+To un-scramble this image:
+  - the top-left image should be moved to position 3
+  - the top-right image should be moved to position 2
+  - the bottom-left image should be moved to position 1
+  - the bottom-right image should be moved to position 0
+  - Therefore, the solution string is “3210”
+
+-------------------------------------------------------------
+
 
 ## Code Structure
 We have provided starter code for you to build off of. You can choose to use a completely different method if you would like, just make sure that the directory structure, filenames, class name, and function name and signature you submit is consistent with the structure detailed below (and in the starter code template). 
