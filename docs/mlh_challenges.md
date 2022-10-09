@@ -4,6 +4,10 @@ sidebar_position: 7
 
 # MLH Challenges
 
+## [NEW] Devpost Guidelines
+1. Create a submission on [devpost](https://tamudatathon2022.devpost.com)
+2. Virtual submissions should include a video under 3 minutes, indicating which MLH Challenges you want to be considered for.
+3. **In-person judging**
 
 ## Best use of CockroachDB - MLH
 Build your hackathon project on CockroachDB's open source and indestructible SQL database. Utilize CockroachDB in your hack for a chance to win a 3D printing pen for each team member. What's more, ALL projects submitted that use CockroachDB will receive a free t-shirt while supplies last!
