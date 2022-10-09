@@ -122,4 +122,4 @@ We will judge your program across many images in our secret scrambled dataset. O
 
 **2nd Place**: AirPod Pros per team member
 
-**3rd Place**: $100 Visa Gift card per team member
+**3rd Place**: $50 Visa Gift card per team member
