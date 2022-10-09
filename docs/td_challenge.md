@@ -27,9 +27,9 @@ When we test your code, we will use many unique images that you do not have acce
 
 ## [NEW] Solution Clarification
 
-Puzzle Position Key
+Puzzle Position Legend:
 
-![positions](./puzzle_solver/positions.jpg)
+![puzzle_position_legend](./puzzle_solver/puzzle_position_legend.jpg)
 -------------------------------------------------------------
 ![scrambled_image](./puzzle_solver/scrambled_image.jpg)
 
