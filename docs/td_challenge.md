@@ -26,6 +26,11 @@ We will provide you with a set of [training images](https://drive.google.com/fil
 When we test your code, we will use many unique images that you do not have access to.
 
 ## [NEW] Solution Clarification
+
+Puzzle Position Key
+
+![positions](./puzzle_solver/positions.jpg)
+-------------------------------------------------------------
 ![scrambled_image](./puzzle_solver/scrambled_image.jpg)
 
 To un-scramble this image:
