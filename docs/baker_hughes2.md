@@ -8,6 +8,7 @@ sidebar_position: 4
 1. Create a submission on [devpost](https://tamudatathon2022.devpost.com)
 2. Your devpost submission should have a link to a GitHub repo with your submission files
 3. A video describing your submission is recommended, but not required. Upload your video to YouTube, and link it to your devpost submission
+4. **No in-person judging**
 
 ## Introduction
 The landscape of manufacturing is evolving rapidly and leading disruptive technology in the energy
