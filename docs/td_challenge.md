@@ -6,7 +6,8 @@ sidebar_position: 6
 
 ## [NEW] Devpost Guidelines
 1. Create a submission on [devpost](https://tamudatathon2022.devpost.com). Include a link to your submitted code, hosted on GitHub.
-2. In order to be judged, you must [ALSO SUBMIT YOUR CODE HERE](https://docs.google.com/forms/d/e/1FAIpQLSfMIe69QkRnm4950rvO-JNBoNmDK9M9FnEZt_q4-Ltu8rt19Q/viewform)
+2. In order to be judged, you must [ALSO submit your code here](https://docs.google.com/forms/d/e/1FAIpQLSfMIe69QkRnm4950rvO-JNBoNmDK9M9FnEZt_q4-Ltu8rt19Q/viewform)
+3. All submissions must be made [here](https://docs.google.com/forms/d/e/1FAIpQLSfMIe69QkRnm4950rvO-JNBoNmDK9M9FnEZt_q4-Ltu8rt19Q/viewform) by **11:00 AM CDT**. No exceptions.
 4. **No in-person judging**
 
 ## Description
