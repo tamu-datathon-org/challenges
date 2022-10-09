@@ -4,6 +4,11 @@ sidebar_position: 4
 
 # Baker Hughes Challenge: Object Detection in Advanced Manufacturing
 
+## [NEW] Devpost Guidelines
+1. Create a submission on [devpost](https://tamudatathon2022.devpost.com)
+2. Your devpost submission should have a link to a GitHub repo with your submission files
+3. A video describing your submission is recommended, but not required. Upload your video to YouTube, and link it to your devpost submission
+
 ## Introduction
 The landscape of manufacturing is evolving rapidly and leading disruptive technology in the energy
 transition. As the technology matures, it is vital to better understand the processes and employ advanced
