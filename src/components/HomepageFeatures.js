@@ -12,8 +12,8 @@ const FeatureList = [
       <>
         <p>
           🥇Miuzei Super Starter Kit & BH Notepads<br></br>
-          🥈Power Banks & Water Bottles (may need to pick up at later date)<br></br>
-          🥉5-in-1 Charging Cables & Tote Bags (may need to pick up at later date)
+          🥈Power Banks & Water Bottles (will be shipped)<br></br>
+          🥉5-in-1 Charging Cables & Tote Bags (will be shipped)
         </p>
         <Link
             className="button button--primary button--lg"
@@ -30,8 +30,8 @@ const FeatureList = [
       <>
         <p>
           🥇Miuzei Super Starter Kit & BH Notepads<br></br>
-          🥈Power Banks & Water Bottles (may need to pick up at later date)<br></br>
-          🥉5-in-1 Charging Cables & Tote Bags (may need to pick up at later date)
+          🥈Power Banks & Water Bottles (will be shipped)<br></br>
+          🥉5-in-1 Charging Cables & Tote Bags (will be shipped)
         </p>
         <Link
             className="button button--primary button--lg"
