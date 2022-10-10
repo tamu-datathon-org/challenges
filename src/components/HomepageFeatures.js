@@ -59,22 +59,6 @@ const FeatureList = [
       </>
     ),
   },
-  // {
-  //   title: 'TBD',
-  //   imgUrl: "/img/celonis_logo.png",
-  //   description: (
-  //     <>
-  //       <p>
-  //         TBD
-  //       </p>
-  //       {/* <Link
-  //           className="button button--primary button--lg"
-  //           to="/docs/celonis">
-  //           Learn more
-  //       </Link> */}
-  //     </>
-  //   ),
-  // },
   {
     title: 'Bloomberg INDG Challenge',
     imgUrl: "/img/bloomberg.svg",
