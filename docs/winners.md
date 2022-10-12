@@ -30,9 +30,10 @@ Go see other people's projects, like them, and give nice comments!
 - 🥈 2nd Place (tied): Rishi Phatak; [View Project →](https://devpost.com/software/news-analytics-and-classifier-bloomberg-industry-group)
 
 ## TD Puzzle Solver Challenge
-- 🥇 1st Place: Cihat Keçeci; [View Project →](https://devpost.com/software/puzzle-solver-yeolfx)
-- 🥈 2nd Place: Lucian Chauvin; [View Project →](https://devpost.com/software/algorithmic-method-for-puzzle)
-- 🥉 3rd Place: Nam Tran; [View Project →](https://devpost.com/software/lone-wolf-and-cub-s-solves-puzzles)
+[Leaderboard](https://tdresults.web.app)
+- 🥇 1st Place: Dien Chau, Tim Cai, Dhruv Patel, Aarvind [View Project →](https://devpost.com/software/galactic-algorithm)
+- 🥈 2nd Place: Cihat Keçeci; [View Project →](https://devpost.com/software/puzzle-solver-yeolfx)
+- 🥉 3rd Place: Lucian Chauvin; [View Project →](https://devpost.com/software/algorithmic-method-for-puzzle)
 
 ## MLH's Best Use of CockroachDB Challenge
 - 🥇 1st Place: Gabrielle Anne Irava, Gabriel Serrano, rheaphatak; [View Project →](https://devpost.com/software/mlh-challenges)
