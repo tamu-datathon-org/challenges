@@ -31,7 +31,7 @@ Go see other people's projects, like them, and give nice comments!
 
 ## TD Puzzle Solver Challenge
 [Leaderboard](https://tdresults.web.app)
-- 🥇 1st Place: Dien Chau, Tim Cai, Dhruv Patel, Aarvind; [View Project →](https://devpost.com/software/galactic-algorithm)
+- 🥇 1st Place: Dien Chau, Tim Cai, Dhruv Patel, Aravind; [View Project →](https://devpost.com/software/galactic-algorithm)
 - 🥈 2nd Place: Cihat Keçeci; [View Project →](https://devpost.com/software/puzzle-solver-yeolfx)
 - 🥉 3rd Place: Lucian Chauvin; [View Project →](https://devpost.com/software/algorithmic-method-for-puzzle)
 
