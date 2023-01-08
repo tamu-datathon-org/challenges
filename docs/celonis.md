@@ -6,7 +6,7 @@ sidebar_position: 5
 
 ## Introduction
 
-The Pizzeriaa Mamma Mia is selling takeaway pizza. The business is generally going well, however, their customer ratings have been very low, and they are 
+The Pizzeria Mamma Mia is selling takeaway pizza. The business is generally going well, however, their customer ratings have been very low, and they are 
 making negative profits for some of their deliveries. 
 
 The owner of the Pizzeria, Giovanni, is puzzled: “I make my pizza by following the original recipe 
