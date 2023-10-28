@@ -9,4 +9,4 @@ As a reminder, here are the qualities of the winning challenge:
 
 ![Marky Challenge](MarkyChallenge.jpg)
 
-Don't forget that submissions by midnight will be entered for a raffle to win a special prize. Happy Hacking!
+Don't forget that all teams that make their first submissions by midnight will be entered into a raffle to win a special prize. Happy Hacking!
