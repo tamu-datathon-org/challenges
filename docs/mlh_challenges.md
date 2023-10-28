@@ -1,27 +1,38 @@
 ---
-sidebar_position: 7
+sidebar_position: 6
 ---
 
-# MLH Challenges
+## Most Creative Use of GitHub
+GitHub Swag
+GitHub is one of the best ways to collaborate, push code, get feedback, and show the world what you’ve built during a hackathon. To take it a step further, GitHub is now offering you access to industry tools, events & learning resources through something called GitHub Global Campus. Win this weekend’s Most Creative Use of GitHub prize category, first by signing up for GitHub Global Campus and second by using a GitHub repository to host your hackathon project’s code! Make sure your use of GitHub stands out with a detailed ReadMe page, meaningful pull requests and collaboration history, and even a GitHub pages deployment!
 
-## [NEW] Devpost Guidelines
-1. Create a submission on [Devpost](https://tamu-datathon-2023.devpost.com/)
-2. Virtual submissions should include a video under 3 minutes, indicating which MLH Challenges you want to be considered for.
-3. **In-person judging**
+## Best Use of MATLAB
+Wireless YoYo Speaker
+MATLAB and Simulink are computational tools used at over 100,000 businesses, government and university sites in over 190 countries. Use MATLAB and/or Simulink exclusively or integrate them into another tool for your next hack to win an exclusive MathWorks branded Wireless YoYo Speaker! You can also claim a free MATLAB software license to get started.
 
-## Best use of CockroachDB - MLH
-Build your hackathon project on CockroachDB's open source and indestructible SQL database. Utilize CockroachDB in your hack for a chance to win a 3D printing pen for each team member. What's more, ALL projects submitted that use CockroachDB will receive a free t-shirt while supplies last!
+## Best Use of Taipy
+Wireless Headphones
+Taipy is a powerful yet easy to use open-source Python library for creating full stack web applications! If you’re a Python developer, this library enables you to build interactive and dynamic graphical user interfaces and support them with data-driven backends. All of these functionalities are just a pip install taipy away and can cut your development time in half! Use Taipy in your hackathon project for a chance to win a set of Wireless Headphones for you and each of your team members, as well as a chance to have your project featured on the Taipy website!
 
-## Best Use of NLP by Cohere - MLH
-Cohere makes Natural Language Processing easy to do with their ready to use online platform. Simply sign-up, claim your free $75 credit, no credit card required, and start training your very own language model directly on the web! You and your teammates can each win a Raspberry Pi 4 Starter Kit by using Cohere in your next hack. Wondering what to build? Cohere is great for text and content generation, text-based search, predictive text and so much more. Check out our software & learn pages for more details!
+## Most Creative Use of Redis Cloud
+Libre Mini Computer with Redis Stack Server Pre-Installed
+Redis Cloud is the easiest way to build and scale real-time applications - Period! It includes Redis Stack, adding indexing, querying, full-text search, JSON, time-series, and probabilistic data structures to the already-rich set of features of Redis.
 
-## Best Domain Name from Domain.com - MLH
-Register a .tech domain name using Domain.com during the weekend. Each team may submit one entry per person on the team. Each winning team member will receive a Domain.com branded backpack.
+Redis Stack works with all of your favorite programming languages and can be added to any existing application. It’s the easiest way to build real-time applications that scale and perform.
 
-## Best Use of Microsoft Cloud for Your Community - MLH
-Bring your idea to life using the Microsoft Cloud - automatically build and deploy a full stack web app from a code repository, create and train a Machine Learning model, develop business applications with little to no code using Power Platform, and more! View our recommended popular solutions in the Education Hub at https://aka.ms/startedu.
+Show us how you’ve used Redis Cloud in a way that showcases your unique and specific data structure needs and each member of your team could win a personal, portable Redis Stack server IOT hardware unit to keep developing on the go. Find out why Stack Overflow Developers have voted Redis their “most loved and admired” noSQL database for years-running by rolling Redis into your MLH Hackathon project.
 
-Build your hackathon project with the Microsoft Cloud that tackles a social impact issue of your choice, and have a chance to win a LinkedIn Premium 12-Month subscription and an XBox Ultimate 3-Month Game Pass subscription.
+Sign up for your free Redis Cloud account, and head over to the MLH jump off page on Redis University for more info and docs links. Enter coupon code MLHFall2023 to claim your Redis Cloud credits and get started for free!
 
-## Most Creative Use of Twilio - MLH
-Twilio allows you to incorporate mobile messaging, phone calls and a ton of other awesome communication features right into your hackathon project using web service APIs. Are you building an e-commerce website and want to send text notifications or email confirmations once an order is completed? Or maybe your application needs to verify users based on their mobile numbers? Twilio makes all this possible and more. Build a hack that simplifies your life using any one of Twilio’s APIs for a chance to win a Twilio Swag Box and GameGo Console for you and each of your teammates!
+## Best Use of AI in Education
+TickTime Pomodoro Timer
+Artificial Intelligence (AI) models, such as large language models (LLMs), are transforming how we interact with computers. During this weekend's hackathon, we want you to apply AI towards improving education to produce tools that support the quality, accessibility, and equitability of learning in today's classrooms. You can use AI to address any challenge teachers and students face, such as curriculum planning, question selection, teacher training, content generation, personalized feedback, automated grading and more.
+
+For this challenge, we encourage you to draw on your own educational experiences and propose technical solutions to problems you've regularly encountered as students — after all, you are the best to know where our education system needs improvement. Design impactful and effective AI tools for education for a chance to win a TickTime Pomodoro Timer!
+
+To give you some inspiration, we're sharing some educational and technical resources:
+
+This list of the most pressing issues educational leaders have around AI
+An introduction to the emerging field of Learning Engineering
+A map of AI in education
+A recent competition series using LLMs for automated essay evaluation
