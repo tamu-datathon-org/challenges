@@ -83,7 +83,7 @@ const FeatureList = [
     description: (
       <>
         <p>
-            Prizes TBA!
+            🥇Stream Deck Minis
         </p>
         <Link
             className="button button--primary button--lg"
