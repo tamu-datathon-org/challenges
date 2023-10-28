@@ -45,6 +45,8 @@ We will provide you with a starter code and a quick video on how to set up your 
 
 - Look through our [starter code](https://drive.google.com/file/d/1RwegHMn-CZ4q2qEGf1z_CbnaZj78CoiP/view?usp=drive_link)
 
+- Workshop Links and Feature Data Explanation: [Link](https://drive.google.com/drive/folders/1ZUYfeox13TPPTttvPmEbybLFK5yqG5DA)
+
 **Train a model using the data:**
 
 You will need to train a model to predict data, either using the starter code given to you, or using another type of model. The predictions from this model will be submitted to get a score on how accurate your model is.
