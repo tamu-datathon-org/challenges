@@ -78,6 +78,22 @@ const FeatureList = [
     ),
   },
   {
+    title: 'Social Media Post Approval',
+    imgUrl: '/img/marky_logo.svg',
+    description: (
+      <>
+        <p>
+            Prizes TBA!
+        </p>
+        <Link
+            className="button button--primary button--lg"
+            to="/docs/BotsRace">
+            Learn more
+        </Link>
+      </>
+    ),
+  },
+  {
     title: 'MLH Challenges',
     imgUrl: "/img/mlh_logo.svg",
     description: (
