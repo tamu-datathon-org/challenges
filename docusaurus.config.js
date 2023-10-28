@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/challenges/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'https://tamudatathon.com/static/img/favicon.ico',
+  favicon: 'https://tamudatathon.com/static/img/favicons/favicon.ico',
 
   presets: [
     [
