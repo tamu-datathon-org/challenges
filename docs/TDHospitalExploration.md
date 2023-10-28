@@ -43,7 +43,7 @@ We will provide you with a starter code and a quick video on how to set up your 
 - Set up python on Mac: [Link](https://drive.google.com/file/d/1htIW-PlNXZiAZYsef4jqz9k4fnh6hdi8/view?usp=drive_link)
 - Set up python on Windows: [Link](https://drive.google.com/file/d/1kIX7gU3Pp54adS2KQTLtytuTxa_kQrBj/view?usp=drive_link)
 
-- Look through our [starter code](https://drive.google.com/file/d/1wZSyZ9A-DZnwuzpi27Zp_IhRc6Orjovq/view?usp=sharing)
+- Look through our [starter code](https://drive.google.com/file/d/1RwegHMn-CZ4q2qEGf1z_CbnaZj78CoiP/view?usp=drive_link)
 
 **Train a model using the data:**
 
@@ -53,7 +53,7 @@ You will need to train a model to predict data, either using the starter code gi
 
 Once we open up our grading platform, "attorney", be sure to follow the instructions below.
 
-- **Link to .whl file** [Link](https://drive.google.com/file/d/1Y43ZObRC4TBKaScIvexOJ8qr07UK8C0B/view?usp=drive_link)
+- **Link to .whl file** [Link](https://drive.google.com/file/d/1MgMhTv38qw8oxFZ-2M8047fGwANkGXDu/view?usp=drive_link)
 You will want to first download the .whl file from the link above, then after you have it downloaded you will want to run the command "pip install [path_to_file]". Once you have it installed, you will want to open a seperate terminal(so you have 2 open). After you have both the terminals open, you will first want to run your starter submission code using the command "python3 [name_of_python_file]". In the second terminal, you will want to run the command "attorney" and fill out the prompts it gives you. The port number for the attourney will be the port number you have in the starter submission code. If the port is taken you can change it to a random number and try again. 
 
 Be sure to submit to devpost and detail everything that you want the judges to see!

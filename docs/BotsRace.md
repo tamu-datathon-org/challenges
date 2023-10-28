@@ -30,7 +30,7 @@ Each turn consists of receiving an input vector, calculating a response, and sen
 
 We provide a basic controller which applies a random action every turn, as well as example maps. You can work from our starter code to build an agent which can react to the inputs in new ways, as well as develop controllers for the different types of vehicles.
 
-Be sure to check out the [code repo](https://drive.google.com/file/d/1pGS2YFI-P9238jiK4RM_mDmJPuDAi4pl/view?usp=sharing) for more information.
+Be sure to check out the [code repo](https://drive.google.com/file/d/1tdpu_61_TvvhfJtQxbg-6HKCxEwNIuWL/view?usp=drive_link) for more information.
 
 In our code repo, we provide some tracks to play around with in the environment_factory.py file. You may need to make more tracks to ensure your solution is robust.
 
