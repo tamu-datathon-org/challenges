@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# MLH Challenges
+
 ## Most Creative Use of GitHub
 GitHub Swag
 GitHub is one of the best ways to collaborate, push code, get feedback, and show the world what you’ve built during a hackathon. To take it a step further, GitHub is now offering you access to industry tools, events & learning resources through something called GitHub Global Campus. Win this weekend’s Most Creative Use of GitHub prize category, first by signing up for GitHub Global Campus and second by using a GitHub repository to host your hackathon project’s code! Make sure your use of GitHub stands out with a detailed ReadMe page, meaningful pull requests and collaboration history, and even a GitHub pages deployment!
@@ -13,6 +15,10 @@ MATLAB and Simulink are computational tools used at over 100,000 businesses, gov
 ## Best Use of Taipy
 Wireless Headphones
 Taipy is a powerful yet easy to use open-source Python library for creating full stack web applications! If you’re a Python developer, this library enables you to build interactive and dynamic graphical user interfaces and support them with data-driven backends. All of these functionalities are just a pip install taipy away and can cut your development time in half! Use Taipy in your hackathon project for a chance to win a set of Wireless Headphones for you and each of your team members, as well as a chance to have your project featured on the Taipy website!
+
+## Best Use of Kintone
+Breadboard IoT Kit
+Still not sure what backend to use in your hack? Kintone is a low-code web database that lets you set up your backend in minutes. It's beginner friendly, allowing you to customize your Kintone app using nothing but JavaScript and HTML. If you're interested in IoT, your team can snag a FREE microcontroller by signing up for Kintone and visiting the MLH table. If you use Kintone in your hackathon project, you'll have a chance to win a breadboard IoT kit to power up the hardware hacking for each member of your team!
 
 ## Most Creative Use of Redis Cloud
 Libre Mini Computer with Redis Stack Server Pre-Installed
