@@ -33,7 +33,7 @@ Again, check the [rules](rules) for more information.
 You can see the challenges by clicking the links in the sidebar or by visiting the [challenges homepage](/).
 
 ## Where do I submit my project(s)
-Submissions will be done on [Devpost](https://tamudatathon2022.devpost.com/). There you can select the challenge your submitting for, add a link to your 3 minute YouTube video, and create your write up.
+Submissions will be done on [Devpost](https://tamu-datathon-2023.devpost.com/). There you can select the challenge your submitting for, add a link to your 3 minute YouTube video, and create your write up.
 
 There might be challenge specific information you have to fill out so be ready to provide the information it asks for.
 

@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'TAMU Datathon 2022 Challenges',
+  title: 'TAMU Datathon 2023 Challenges',
   tagline: 'Make a submission to a challenge and win prizes!',
   url: 'https://tamudatathon.com',
   baseUrl: '/challenges/',
@@ -35,8 +35,8 @@ const config = {
       navbar: {
         title: '',
         logo: {
-          alt: 'TD 2021 Challenges',
-          src: 'https://tamudatathon.com/events/static/img/logos/main.svg',
+          alt: 'TD 2023 Challenges',
+          src: 'https://tamudatathon.com/static/img/logos/main-23.svg',
         },
         items: [
           {

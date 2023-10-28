@@ -5,7 +5,7 @@ sidebar_position: 7
 # MLH Challenges
 
 ## [NEW] Devpost Guidelines
-1. Create a submission on [devpost](https://tamudatathon2022.devpost.com)
+1. Create a submission on [Devpost](https://tamu-datathon-2023.devpost.com/)
 2. Virtual submissions should include a video under 3 minutes, indicating which MLH Challenges you want to be considered for.
 3. **In-person judging**
 

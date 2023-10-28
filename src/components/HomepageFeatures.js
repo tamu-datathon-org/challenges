@@ -6,89 +6,72 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 const FeatureList = [
   {
-    title: 'Gas Turbine Data Visualization',
-    imgUrl: '/img/baker_hughes_logo.svg',
+    title: 'TD Hospital Exploration',
+    imgUrl: '/img/main-23.svg',
     description: (
       <>
         <p>
-          🥇Miuzei Super Starter Kit & BH Notepads<br></br>
-          🥈Power Banks & Water Bottles (will be shipped)<br></br>
-          🥉5-in-1 Charging Cables & Tote Bags (will be shipped)
+          🥇Echo Dot<br></br>
+          🥈Anker Soundcore 2 Portable Bluetooth Speaker<br></br>
+          🥉$25 Gift Card
         </p>
         <Link
             className="button button--primary button--lg"
-            to="/docs/baker_hughes1">
+            to="/docs/TDHospitalExploration">
             Learn more
         </Link>
       </>
     ),
   },
   {
-    title: 'Object Detection in Advanced Manufacturing',
-    imgUrl: "/img/baker_hughes_logo.svg",
+    title: 'Pictionary Plunge',
+    imgUrl: '/img/main-23.svg',
     description: (
       <>
         <p>
-          🥇Miuzei Super Starter Kit & BH Notepads<br></br>
-          🥈Power Banks & Water Bottles (will be shipped)<br></br>
-          🥉5-in-1 Charging Cables & Tote Bags (will be shipped)
-        </p>
-        <Link
-            className="button button--primary button--lg"
-            to="/docs/baker_hughes2">
-            Learn more
-        </Link>
-      </>
-    ),
-  },
-  {
-    title: 'Get in Line',
-    imgUrl: "/img/cbre.png",
-    description: (
-      <>
-        <p>
-          🥇$125 Amazon gift card, each<br></br>
-          🥈$75 Amazon gift card, each <br></br>
-          🥉$50 Amazon gift card, each
-        </p>
-        <Link
-            className="button button--primary button--lg"
-            to="/docs/cbre">
-            Learn more
-        </Link>
-      </>
-    ),
-  },
-  {
-    title: 'Bloomberg INDG Challenge',
-    imgUrl: "/img/bloomberg.svg",
-    description: (
-      <>
-        <p>
-          🥇Bose Sport True Wireless Bluetooth Earbud<br></br>
-          🥈RK ROYAL KLUDGE RK100 Wireless Mechanical Keyboard<br></br>
-          </p>
-        <Link
-            className="button button--primary button--lg"
-            to="/docs/bloomberg">
-            Learn more
-        </Link>
-      </>
-    ),
-  },
-  {
-    title: 'Puzzle Solver',
-    imgUrl: "/img/td_logo.webp",
-    description: (
-      <>
-        <p>
-          🥇iPad<br></br>
-          🥈AirPods (3rd generation)<br></br>
+          🥇iPad 9th Generation<br></br>
+          🥈Bokigibi Drone with 1080P HD FPV Camera<br></br>
           🥉$50 Gift Card
         </p>
         <Link
             className="button button--primary button--lg"
-            to="/docs/td_challenge">
+            to="/docs/PictionaryPlunge">
+            Learn more
+        </Link>
+      </>
+    ),
+  },
+  {
+    title: 'Build Your Own',
+    imgUrl: '/img/main-23.svg',
+    description: (
+      <>
+        <p>
+          🥇RK ROYAL KLUDGE RK61 60% Mechanical Keyboard with Coiled Cable<br></br>
+          🥈JBL Tune 660NC Headphones<br></br>
+          🥉$50 Gift Card
+        </p>
+        <Link
+            className="button button--primary button--lg"
+            to="/docs/BuildYourOwn">
+            Learn more
+        </Link>
+      </>
+    ),
+  },
+  {
+    title: 'Bots Race',
+    imgUrl: '/img/main-23.svg',
+    description: (
+      <>
+        <p>
+          🥇MNN Portable Monitor 15.6inch FHD 1080P<br></br>
+          🥈Logitech G502 HERO Gaming Mouse<br></br>
+          🥉$50 Gift Card
+        </p>
+        <Link
+            className="button button--primary button--lg"
+            to="/docs/BotsRace">
             Learn more
         </Link>
       </>
