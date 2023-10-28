@@ -16,7 +16,7 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 
 1. The maximum team size is 4.
 2. Teams should be made up exclusively of students who are not organizers, volunteers, judges, sponsors, or in any other privileged position at the event. 
-3. All team members should be present at the event (in-person or virtual). Leaving the venue for some time to hack elsewhere is fine.
+3. All team members should be present at the event (in-person). Leaving the venue for some time to hack elsewhere is fine.
 4. Teams can of course gain advice and support from organizers, volunteers, sponsors, and others.
 5. All work on a project should be done at the datathon.
 6. Your project must only be submitted to one challenge. However you can make multiple projects and submit to different challenges. You can only make one project submission per challenge.
@@ -25,10 +25,6 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 9. Teams must stop hacking once the time is up. However, teams are allowed to debug and make small fixes to their programs after time is up. e.g. If during demoing your project you find a bug that breaks your application and the fix is only a few lines of code, it's okay to fix that. Making large changes or adding new features is not allowed.
 10. Projects that violate the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf) are not allowed. 
 11. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf), or other unsporting behaviour.
-
-:::note
-If you submit a video, you will be judged virtually.
-:::
 
 ## Remember!
 
