@@ -87,7 +87,7 @@ const FeatureList = [
         </p>
         <Link
             className="button button--primary button--lg"
-            to="/docs/BotsRace">
+            to="/docs/SocialMediaPostApproval">
             Learn more
         </Link>
       </>
